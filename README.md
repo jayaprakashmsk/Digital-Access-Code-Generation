@@ -64,3 +64,28 @@ PROBLEM DESCRIPTION: Here we have a new digital addressing system, similar to ho
 # Screenshots of Final Product
 Login Screen
 <img src="photo (8).jpg">
+<hr>
+New User Registration Screen
+<img src="photo (7).jpg">
+<hr>
+Dashboard
+<img src="photo (4).jpg">
+<hr>
+DAC Profile
+<img src="photo (5).jpg">
+<hr>
+Admin Dashboard
+<img src="photo (6).jpg">
+
+
+# Winning Certificate
+<img src="photo (9).jpg">
+
+# Gallary
+<img src="photo (3).jpg">
+<img src="photo (1).jpg">
+
+
+# Video
+
+<a href="https://drive.google.com/file/d/1sD8MYpBcTuUdsNUiGmTKqxOOOu6pS7im/view?usp=sharing"> SIH VIDEO</a>
